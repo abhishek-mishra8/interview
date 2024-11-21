@@ -1,10 +1,8 @@
-**config.tf**
-
-terraform {
-  required_version = "= 1.2.7"
-}
-
-provider "aws" {
-  region = "eu-central-1"
-}
-
+1. Create a static folder in the name of contents and put all the static files in that
+2. Create a file config.tf
+3. Create the file main.tf
+4. create the file main.tf
+5. Run the folowing command
+  terraform init
+  terraform plan
+  terraform apply
