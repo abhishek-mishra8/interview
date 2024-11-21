@@ -3,6 +3,7 @@
 3. Create the file main.tf
 4. create the file main.tf
 5. Run the folowing command
-  terraform init
+6.
+7. terraform init
   terraform plan
   terraform apply
